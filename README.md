@@ -30,7 +30,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nomanislam333) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nomanislam222) 
 [![](https://visitcount.itsvg.in/api?id=nomanislam222&icon=8&color=1)](https://visitcount.itsvg.in)
 
 
