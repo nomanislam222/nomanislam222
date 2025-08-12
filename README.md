@@ -3,9 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanislam222&theme=radical&hide_border=false" alt="GitHub Stats">
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanislam222&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Stats">
 </p>
 
